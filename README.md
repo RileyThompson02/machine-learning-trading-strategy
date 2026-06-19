@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project develops a machine learning-driven trading strategy that uses technical indicators to predict short-term price movements across multiple equities.
+This project is my first and it develops a machine learning-driven trading strategy that uses technical indicators to predict short-term price movements across multiple equities.
 
 A Random Forest classifier is trained on engineered features, and its predictions are converted into trading signals. The strategy is evaluated through backtesting, including transaction cost modeling.
 
