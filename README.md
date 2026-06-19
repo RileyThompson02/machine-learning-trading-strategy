@@ -1,4 +1,4 @@
-# Machine Learning-Based Multi-Asset Trading Strategy
+# Machine Learning Investment Decision System 
 
 ## Overview
 
